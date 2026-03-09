@@ -1,0 +1,14 @@
+{
+  "name": "campus-biz",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "cd Frontend && npm run dev",
+    "build": "cd Frontend && npm run build",
+    "start": "cd Frontend && npm run preview"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
+
